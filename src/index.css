@@ -20,6 +20,34 @@ body {
   color: #F8F7F7;
 }
 
+@media all and (max-width: 1200px){
+
+body{
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 40%;
+
+    }
+}
+@media all and (max-width: 900px){
+
+body{
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 50%;
+
+    }
+}
+@media all and (max-width: 480px){
+
+body{
+   margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 75%;
+
+    }
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
